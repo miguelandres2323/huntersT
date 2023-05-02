@@ -1,0 +1,26 @@
+[
+    {
+        "idTribu":1,
+        "tribu" : "Tribu 1",
+        "puntos" : 400000,
+        "campers" : [
+            {
+                "id":1,
+                "nombre":"Camper A",
+                "edad" : 17,
+                "ingles" : "A1",
+                "rol" : "Leader",
+                "img" :""
+            },
+            {
+                "id":2,
+                "nombre":"Camper B",
+                "edad" : 17,
+                "ingles" : "A1",
+                "rol" : "Leader Marketing",
+                "img" :""
+            }
+        ]
+        
+    }
+]

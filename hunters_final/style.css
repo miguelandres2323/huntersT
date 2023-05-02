@@ -1,0 +1,8 @@
+#cargarData{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(247, 7, 47);
+}
+.btnShowTribuData, .btnHideTribuData{
+    background-color: blue;
+}
